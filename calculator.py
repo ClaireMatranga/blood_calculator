@@ -1,3 +1,13 @@
+def HDL_driver():
+        # get input
+	user_HDL = get_HDL()
+        # check if HDL is normal
+        # Output
+
+def get_HDL()
+	HDL = input("Enter your HDL: ")
+	return int(HDL)
+
 def interface():
     print("My Program")
     while true:
